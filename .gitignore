@@ -1,0 +1,8 @@
+# Microsoft Access lock & temp files
+*.laccdb
+*.ldb
+
+# OS / editor artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
